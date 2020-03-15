@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>验证码</title>
+        <script  src="http://libs.baidu.com/jquery/1.7.2/jquery.min.js"></script>
+    </head>
+     
+    <body>
+	    <h1>请输入你要下载启动器名字,不区分大小写</h1>
+        <input type="text" name="lo" id="lo" placeholder=""/>
+        <button id='sub'> 提交</button>
+    </body>
+    <script>$('#sub').on('click', (function() {
+    var val = $('#lo').val()
+    if(val == 'CMCL') {
+        window.location.href="http://edgw.github.io/CCL-v1.1.7.8.exe"
+    } 
+	else if(val == 'CCL')
+	{
+        window.location.href="http://edgw.github.io/CCL-v1.1.7.8.exe"
+    }
+	else{
+	alert("错误")
+	}
+	
+}))
+    </script>
+</html>
