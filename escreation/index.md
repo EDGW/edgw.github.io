@@ -5,8 +5,8 @@
 这是一个刚开荒的服务器，我们没有什么要求，只要你热爱生活，热爱Minecraft，Escreation的大门都会对你敞开，再次欢迎你来到我们服务器！
 
 ## 加入我们
-你需要在[这里]([http://server.edgw.cc](https://qm.qq.com/cgi-bin/qm/qr?k=2o566Uthf_8xy1CipOQamlP4DLjYsU4C&jump_from=webapi&authKey=U7GwJa5M28ONwbEnLLffhv4HI3kp51CnEcIWbJT6/aGvOS4I3ntcn56k5m7nnHsb))加入我们的QQ群。
-你可以在[这里](http://files.edgw.cc/server-pack.7z)下载我们的整合包
+你需要在[这里](https://qm.qq.com/cgi-bin/qm/qr?k=2o566Uthf_8xy1CipOQamlP4DLjYsU4C&jump_from=webapi&authKey=U7GwJa5M28ONwbEnLLffhv4HI3kp51CnEcIWbJT6/aGvOS4I3ntcn56k5m7nnHsb)加入我们的QQ群。
+你可以在[这里](http://files.edgw.cc/server-pack.zip)下载我们的整合包
 
 # 玩法介绍
 
